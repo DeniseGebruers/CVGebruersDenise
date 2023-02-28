@@ -107,6 +107,10 @@ section[id] {
     margin-top: -1rem;
 }
 
+.ondaVerde {
+    margin-top: -2px;
+}
+
 .experienciaLaboral {
     background-color: #D9CAB3;
 }
@@ -231,6 +235,7 @@ section[id] {
     .imgSubText {
         font-size: 30px;
         top: 65%;
+        margin-right: 9px;
     }
     .perfilTitulo {
         font-size: 50px;
@@ -299,6 +304,7 @@ section[id] {
     .imgSubText {
         font-size: 30px;
         top: 65%;
+        margin-right: 9px;
     }
     .perfilTitulo {
         font-size: 50px;
