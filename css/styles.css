@@ -79,7 +79,7 @@ section[id] {
     font-size: 60px;
     text-align: left;
     margin-left: 70px;
-    margin-top: -10rem;
+    margin-top: -8rem;
     color: #6D9886;
 }
 
@@ -248,8 +248,9 @@ section[id] {
     }
     .skillsTitulo {
         font-size: 40px;
-        margin-top: -4rem;
+        margin-top: -2rem;
         margin-left: 5%;
+        margin-bottom: 2rem;
     }
     .iconos {
         margin-top: 8%;
@@ -315,8 +316,9 @@ section[id] {
     }
     .skillsTitulo {
         font-size: 50px;
-        margin-top: -4rem;
+        margin-top: -1rem;
         margin-left: 5%;
+        margin-bottom: 2rem;
     }
     .iconos {
         margin-top: 8%;
@@ -378,7 +380,7 @@ section[id] {
     }
     .skillsTitulo {
         font-size: 60px;
-        margin-top: -4rem;
+        margin-top: -2rem;
         margin-left: 5%;
     }
     .iconos {
@@ -415,7 +417,7 @@ section[id] {
         margin-right: 0%;
     }
     .skillsTitulo {
-        margin-top: -8rem;
+        margin-top: -4rem;
     }
     .iconos {
         margin-top: 8%;
