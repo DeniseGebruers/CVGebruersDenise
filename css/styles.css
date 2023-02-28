@@ -79,7 +79,7 @@ section[id] {
     font-size: 60px;
     text-align: left;
     margin-left: 70px;
-    margin-top: -12rem;
+    margin-top: -10rem;
     color: #6D9886;
 }
 
@@ -104,7 +104,7 @@ section[id] {
 }
 
 .ondaGris {
-    margin-top: -5rem;
+    margin-top: -1rem;
 }
 
 .experienciaLaboral {
@@ -202,6 +202,7 @@ section[id] {
 
 .contactoContenido {
     display: none;
+    text-decoration: none;
     font-family: 'Bebas Neue', cursive;
     margin-top: 35px;
     color: #6D9886;
@@ -255,7 +256,7 @@ section[id] {
         font-size: 40px;
     }
     .ondaGris {
-        margin-top: 0;
+        margin-top: -1px;
     }
     .experiencias {
         font-size: 15px;
@@ -322,13 +323,14 @@ section[id] {
         font-size: 50px;
     }
     .ondaGris {
-        margin-top: -1rem;
+        margin-top: -2rem;
     }
     .experiencias {
         font-size: 15px;
         margin-right: 1%;
         margin-left: 30px;
         margin-right: 80px;
+        margin-bottom: 20px;
     }
     .experienciaTitulo {
         font-size: 50px;
